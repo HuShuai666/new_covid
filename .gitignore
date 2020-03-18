@@ -1,0 +1,6 @@
+*.xml
+*.pyc
+migrations/
+media/
+logs/
+.idea/
